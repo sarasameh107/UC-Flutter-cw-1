@@ -1,1 +1,10 @@
+void main () {
 
+  String firstName = "Sara";
+  String lastName = "Yousef";
+  int age = 16;
+  String hobby = "graphic design, drawing and writing";
+
+print ("Hello, my name is $firstName $lastName, I am ${age} years old, and my hobies are: $hobby.");
+
+}
