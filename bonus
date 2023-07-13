@@ -1,0 +1,8 @@
+void main() {
+
+  int F = 49;
+  double C = (F-32) / 1.8;
+
+print ( "$F degrees fahrenheit = $C degrees celsius" );
+
+}
